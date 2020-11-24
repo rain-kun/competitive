@@ -1,0 +1,3 @@
+To convert into assembly code
+g++
+g++ -S main.cpp -o assem1.o

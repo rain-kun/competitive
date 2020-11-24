@@ -1,0 +1,8 @@
+streams are contineous flow of values
+and string stream is a stream which is used to seperate
+out the contineous coming values.
+
+header: <sstream>
+
+define: stringstream ss(big contineous value);
+seperate using comma's 
